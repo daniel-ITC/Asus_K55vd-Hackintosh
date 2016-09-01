@@ -1,0 +1,2 @@
+# ASUS_K55VD-DSDT
+Edite DSDT for ASUS K55vd for Mac OS X 10.11.6
